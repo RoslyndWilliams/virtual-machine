@@ -61,7 +61,7 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 - Select Create, then select Azure Virtual Machine
 - You will need to select the same resource group, the same region, and create a name for the virtual machine
     - For thise example, we will name the virtual machine "virtualmachine"
-    - Use same resource group and region as step 2/3
+    - Use the same resource group and region as steps 2 and 3
 
 <p align="center">
 <img src="https://i.imgur.com/y0RafHM.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/PCJ3QAr.png" height="70%" width="70%" alt="Azure Free Services"/>

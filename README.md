@@ -3,7 +3,7 @@
 </p>
 
 <h1>Microsoft Azure</h1>
-Microsoft Azure is a cloud platform that will let you rent space in order to store or process your own data. This guide will demonstrate how to create an Azure account and create a virtual machine.
+Azure is a cloud computing platform and an online portal that allows you to access and manage cloud services and resources provided by Microsoft. To get access to these resources and services, all you need to have is an active internet connection and the ability to connect to the Azure portal. This guide will demonstrate how to create an Azure account and create a virtual machine.
 
 <h2>Requirements</h2>
 
